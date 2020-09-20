@@ -1,5 +1,7 @@
 # wireshark2
 
+I dag skal vi kigge lidt nærmere på detaljerne ved HTTP-request og TCP-protokollen. Vi skal bl.a. kigge nærmere på sequencing og SYNACK. I skal downloaded filen i dette repository, og åbne den i jeres wireshark.
+
 ### Spørgsmål 1
 Hvad er IP-adressen og TCP-porten brugt af kilde-klienten for at overføre filen til gaia.cs.umass.edu?
 Hvilken IP-adresse og port er brugt af gaia.cs.umass.edu til at modtage filen?
